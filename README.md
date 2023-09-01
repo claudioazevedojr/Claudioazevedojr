@@ -1,12 +1,10 @@
 ## Olá!!! Eu sou Cláudio Azevedo
 <br>
 
-
-- 😊 Estudante de desenvolvimento BackEnd
-- 🔥 Sempre pronto para enfrentar novos desafios
-- 💬 Entusiasta da tecnologia.
+- 😎 Estudante de desenvolvimento BackEnd
+- 💬 Entusiasta da tecnologia
 - 📫 Como entrar em contato comigo: claudioazevedojr@hotmail.com
-- 📚 “O bater das asas de uma borboleta pode provocar um furacão do outro lado do mundo” - Teoria do Caos
+- 📚 "Se a educação sozinha não transforma a sociedade, sem ela tampouco a sociedade muda." - Paulo Freire
 
 
 
