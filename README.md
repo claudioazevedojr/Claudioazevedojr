@@ -15,7 +15,7 @@
 <br><br>
 
 ## Progresso 🚀
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300"/>
+<img align="right" src="https://viacarreira.com/wp-content/uploads/2021/10/linguagens-de-programacao-mais-rentaveis.png" width="300"/>
 <br><br>
 <li> 🎓 Formado em Redes de Computadores - UNIBRA
 <li> 🎓 Pós graduado em Engenharia de Software - Faculdade Focus
