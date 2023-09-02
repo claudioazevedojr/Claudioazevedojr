@@ -17,7 +17,7 @@
 <br><br>
 <li> 🎓 Formado em Redes de Computadores - UNIBRA
 <li> 🎓 Pós graduado em Engenharia de Software - Faculdade Focus
-<li> 🌱 Atualmente estou aprendendo HTML, CSS, JS, JAVA
+<li> 🌱 Atualmente estou aprendendo HTML, NODEJS, CSS, JS, JAVA
 <li> ✍️ Cursando o FAP Softex, BackEnd com JavaScript</li>
 <br><br><br>
 <br>
@@ -31,19 +31,19 @@
 ## 🔮 Interesses 👇
 
 <div align="left>
+  <img align="center" height="30" width="40" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" height="30" width="40" alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+  <img align="center" height="30" width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-    <img align="center" height="30" width="40" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" height="30" width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    </div>
+</div>
+
 <br>
 
  ## Redes sociais 👇
 <div align="left"> 
-  <a href="https://www.linkedin.com/in/claudioazevedojr-02294b22" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "mailto:claudioazevedojr@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/claudioazevedojr/" target="_blank"><img 
+  <a href="https://www.linkedin.com/in/claudioazevedojr-02294b22" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto:claudioazevedojr@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.instagram.com/claudioazevedojr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   
