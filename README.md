@@ -13,7 +13,7 @@
 <br><br>
 
 ## Progresso 📚
-<img align="right" src="https://viacarreira.com/wp-content/uploads/2021/10/linguagens-de-programacao-mais-rentaveis.png" width="300"/>
+<img align="right" src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" width="300"/>
 <br><br>
 <li> 🎓 Formado em Redes de Computadores - UNIBRA
 <li> 🎓 Pós graduado em Engenharia de Software - Faculdade Focus
