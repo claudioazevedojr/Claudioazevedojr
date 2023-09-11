@@ -28,7 +28,7 @@
 </div>
 <br>
     
-## Interesses 👇
+## Atualmente Estudando 👇
 
 <div align="left>
   <img align="center" height="30" width="40" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
